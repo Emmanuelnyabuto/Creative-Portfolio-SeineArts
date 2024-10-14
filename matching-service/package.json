@@ -1,0 +1,15 @@
+{
+    "name": "matching-service",
+    "version": "1.0.0",
+    "description": "Service to match clients with artists based on various factors",
+    "main": "src/app.js",
+    "scripts": {
+      "start": "node src/app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.0",
+      "dotenv": "^10.0.0"
+    }
+  }
+  
